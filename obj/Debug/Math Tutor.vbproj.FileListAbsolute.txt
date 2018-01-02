@@ -1,0 +1,19 @@
+C:\Users\B\Documents\Challenge%203%20-%20Math%20Tutor(1)[1]\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.xml
+C:\Users\Ray\Desktop\MT\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.xml
+C:\Users\Ray\Desktop\MT\Challenge 3 - Math Tutor\bin\Math Tutor.exe
+C:\Users\Ray\Desktop\MT\Challenge 3 - Math Tutor\bin\Math Tutor.pdb
+C:\Users\Ray\Desktop\MT\Challenge 3 - Math Tutor\bin\Math Tutor.xml
+C:\Users\Ray\Desktop\MT\Challenge 3 - Math Tutor\obj\Debug\Math_Tutor.Form1.resources
+C:\Users\Ray\Desktop\MT\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.vbproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\MT\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.exe
+C:\Users\Ray\Desktop\MT\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.pdb
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\bin\Math Tutor.exe
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\bin\Math Tutor.pdb
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\bin\Math Tutor.xml
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\obj\Debug\Math_Tutor.Form1.resources
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.exe
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.xml
+A:\Cincinnati State\.NET programming\Week Two\Challenge 3 - Math Tutor\obj\Debug\Math Tutor.pdb

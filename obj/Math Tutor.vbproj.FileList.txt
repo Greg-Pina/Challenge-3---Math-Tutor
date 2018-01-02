@@ -1,0 +1,9 @@
+obj\Debug\Math Tutor.exe
+obj\Debug\Math Tutor.pdb
+bin\Math Tutor.exe
+bin\Math Tutor.pdb
+bin\Math Tutor.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Math_Tutor.Form1.resources
+obj\Debug\Math Tutor.vbproj.GenerateResource.Cache
+obj\Debug\Math Tutor.xml
